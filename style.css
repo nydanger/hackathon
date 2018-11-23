@@ -1,0 +1,9 @@
+.container .content{
+	display: flex;
+	justify-content: center;
+	margin-top: 50px;
+}
+.container .content img{
+	width: 500px;
+	height: 500px;
+}
